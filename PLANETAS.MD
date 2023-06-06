@@ -2,34 +2,34 @@
 
 | Planeta   | Palabras Asociadas                        |
 |-----------|-------------------------------------------|
-| Mercurio  | Comunicación, inteligencia, adaptabilidad  |
-| Venus     | Amor, belleza, armonía                     |
-| Marte     | Acción, energía, pasión                    |
-| Júpiter   | Expansión, crecimiento, abundancia         |
-| Saturno   | Disciplina, responsabilidad, estructura    |
-| Urano     | Innovación, originalidad, libertad         |
-| Neptuno   | Imaginación, intuición, espiritualidad     |
-| Plutón    | Transformación, poder, intensidad          |
-| Sol       | Identidad, vitalidad, propósito            |
-| Luna      | Emociones, intuición, sensibilidad         |
-| Quirón    | Sanación, heridas, maestría                |
+| Mercurio  | Comunicación, inteligencia, adaptabilidad, mente, intelecto    |
+| Venus     | Amor, belleza, armonía, relaciones, sensualidad, placer        |
+| Marte     | Acción, energía, pasión, impulsividad, agresividad, deseo      |
+| Júpiter   | Expansión, crecimiento, abundancia, sabiduría, generosidad, optimismo   |
+| Saturno   | Disciplina, responsabilidad, estructura, límites, perseverancia, autoridad    |
+| Urano     | Innovación, originalidad, libertad, independencia, rebeldía, intuición     |
+| Neptuno   | Imaginación, intuición, espiritualidad, sueños, ilusiones, compasión   |
+| Plutón    | Transformación, poder, intensidad, renacimiento, secretos, regeneración    |
+| Sol       | Identidad, vitalidad, propósito, autoexpresión, liderazgo, confianza    |
+| Luna      | Emociones, intuición, sensibilidad, instinto, nutrición, protección    |
+| Quirón    | Sanación, heridas, maestría, curación, sabiduría, transformación     |
 
 **Signo, Palabras Asociadas**
 
 | Signo     | Palabras Asociadas                        |
 |-----------|-------------------------------------------|
-| Aries     | Acción, valentía, iniciativa              |
-| Tauro     | Estabilidad, sensualidad, perseverancia   |
-| Géminis   | Comunicación, versatilidad, curiosidad     |
-| Cáncer    | Emociones, protección, intuición           |
-| Leo       | Autoexpresión, creatividad, liderazgo      |
-| Virgo     | Perfeccionismo, análisis, organización     |
-| Libra     | Equilibrio, armonía, diplomacia            |
-| Escorpio  | Transformación, intensidad, poder          |
-| Sagitario | Expansión, aventura, optimismo             |
-| Capricornio | Ambición, disciplina, responsabilidad     |
-| Acuario   | Innovación, originalidad, humanitarismo    |
-| Piscis    | Sensibilidad, intuición, espiritualidad    |
+| Aries     | Acción, valentía, iniciativa, coraje, liderazgo, independencia    |
+| Tauro     | Estabilidad, sensualidad, perseverancia, seguridad, paciencia, posesión   |
+| Géminis   | Comunicación, versatilidad, curiosidad, adaptabilidad, sociabilidad, aprendizaje   |
+| Cáncer    | Emociones, protección, intuición, hogar, maternidad, sensibilidad     |
+| Leo       | Autoexpresión, creatividad, liderazgo, confianza, generosidad, carisma    |
+| Virgo     | Perfeccionismo, análisis, organización, eficiencia, modestia, servicio   |
+| Libra     | Equilibrio, armonía, diplomacia, justicia, relaciones, belleza   |
+| Escorpio  | Transformación, intensidad, poder, pasión, magnetismo, profundidad    |
+| Sagitario | Expansión, aventura, optimismo, filosofía, libertad, exploración   |
+| Capricornio | Ambición, disciplina, responsabilidad, perseverancia, estructura, logro   |
+| Acuario   | Innovación, originalidad, humanitarismo, independencia, amistad, altruismo   |
+| Piscis    | Sensibilidad, intuición, espiritualidad, compasión, imaginación, comprensión   |
 
 **Casa, Área de Influencia**
 
